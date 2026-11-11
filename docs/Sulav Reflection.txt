@@ -1,0 +1,14 @@
+/* 1. What was your primary contribution to the project?
+   -  My primary contribution was writing the code and checking the test case. I also contributed to making the git repository. 
+
+2. What was the most challenging technical problem your team encountered?
+    -  Writing the code was the most challenging as it took a lot of debugging and test cases to check our program. 
+
+3. How did your team use testing or debugging to solve a problem?
+    -  We use different values like uses the temperature outside the range, in the range and exactly in the range to test every part of our program. 
+
+4. Which skills from CSE 1106 were most useful?
+    - Learning how to use git and how to create repository were the most useful skills that I learned. 
+
+5. What would you improve if you had more time? 
+     - I would like to improve my programming skill and do the projects without taking help from the teaching assistance. 
