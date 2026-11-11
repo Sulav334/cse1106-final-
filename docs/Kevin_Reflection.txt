@@ -1,0 +1,7 @@
+/* 1. What was your primary contribution to the project?
+
+2. What was the most challenging technical problem your team encountered?
+
+3. How did your team use testing or debugging to solve a problem?
+4. Which skills from CSE 1106 were most useful?
+5. What would you improve if you had more time?
