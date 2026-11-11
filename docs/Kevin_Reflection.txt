@@ -1,7 +1,10 @@
 /* 1. What was your primary contribution to the project?
-
+- We worked on the code together and worked on the circuitry for the Pi to operate with the code
 2. What was the most challenging technical problem your team encountered?
-
+- The requirements of getting the temperatures to be read, debugging the whole code and seeing if the stayed within the conditions of the range and it's multiple inputs
 3. How did your team use testing or debugging to solve a problem?
+- It was mainly trial and error, using different values either outside or exactly in between the range to test the ins and outs of the program to find flaws
 4. Which skills from CSE 1106 were most useful?
+- Learning how to operate the Github, creating a repository, changing files and the texts, and connect Github and terminal using the SSH
 5. What would you improve if you had more time?
+- I wish I could've improved the clarity of the code and compress the code to allow cleaner code
